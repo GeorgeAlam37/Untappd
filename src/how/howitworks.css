@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;1,200&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    overflow-x: hidden;
+  }
+  h1, h2, h3, h4, h5, h6, span {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 700; 
+  }
+
+  .custom-container {
+    max-width: 100%;
+    overflow: hidden;
+    padding: 0 15px;
+    margin: 100px auto;
+  }
+  
+  .custom-row {
+    box-sizing: border-box;
+  }

@@ -1,0 +1,15 @@
+/* UnderConstruction.css */
+.under-construction-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* This ensures the container takes up the full height of the viewport */
+  background: whitesmoke;
+}
+
+.construction-image {
+  max-width: 100%; /* Ensures the image doesn't exceed the width of its container */
+  height: auto; /* Maintains the image's aspect ratio */
+  display: block; /* Removes extra space below the image */
+  margin: 0 auto; /* Centers the image horizontally within its container */
+}
