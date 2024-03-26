@@ -17,7 +17,7 @@
     </ul>
     <h2>Getting Started</h2>
     <p>To get started with Untappd, simply visit the platform at the following link:</p>
-    <a href="https://georgealam37.github.io/Untappd/">Untappd - Web Development Learning Platform</a>
+    <a href="https://georgealam37.github.io/Untappd/" target="_blank">Untappd - Web Development Learning Platform</a>
     <h2>Technology Used</h2>
     <ul>
     <li>React</li>
