@@ -21,12 +21,16 @@
     <h2>Contributing</h2>
     <p>Contributions to Untappd are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to submit a pull request.</p>
     <h2>Technology Used</h2>
-    - React
-    - Nodejs
-    - Express
-    - EmailJS
-    - FontAwesome for React
-    - React Bootstrap
-    - Swiper
+    <ul>
+    <li>React</li>
+    <li>Nodejs</li>
+    <li>Express</li>
+    <li>EmailJS</li>
+    <li>FontAwesome for React</li>
+    <li>React Bootstrap</li>
+    <li>Swiper</li>
+    </ul>
+    <h2>ScreenShot</h2>
+    <img src="./untappd.png" alt="untappd" style="width:600px;"/>
 </body>
 </html>
