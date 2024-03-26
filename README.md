@@ -21,7 +21,6 @@
     <h2>Contributing</h2>
     <p>Contributions to Untappd are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to submit a pull request.</p>
     <h2>Technology Used</h2>
-    <h4>Frontent</h4>
     - React
     - Nodejs
     - Express
@@ -29,6 +28,5 @@
     - FontAwesome for React
     - React Bootstrap
     - Swiper
-
 </body>
 </html>
